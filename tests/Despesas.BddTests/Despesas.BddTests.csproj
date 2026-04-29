@@ -24,4 +24,8 @@
     <ProjectReference Include="..\..\src\Despesas.Api\Despesas.Api.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Features\**\*.feature" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
 </Project>

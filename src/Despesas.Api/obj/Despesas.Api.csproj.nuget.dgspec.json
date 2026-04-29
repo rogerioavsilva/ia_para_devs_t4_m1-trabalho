@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj": {}
+    "c:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj": {
+    "c:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj",
+        "projectUniqueName": "c:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj",
         "projectName": "Despesas.Api",
-        "projectPath": "C:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj",
+        "projectPath": "c:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj",
         "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\obj\\",
+        "outputPath": "c:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

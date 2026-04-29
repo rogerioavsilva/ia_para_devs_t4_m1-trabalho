@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F3bGn9ZIxKQ=",
+  "dgSpecHash": "ty5+HU4lHW4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj",
+  "projectFilePath": "c:\\Users\\roger\\source\\repos\\sdd\\IA_para_DEVs-produto\\src\\Despesas.Api\\Despesas.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roger\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
     "C:\\Users\\roger\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.7\\microsoft.entityframeworkcore.10.0.7.nupkg.sha512",

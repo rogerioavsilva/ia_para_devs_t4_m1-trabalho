@@ -436,3 +436,4 @@ C:\Users\roger\source\repos\sdd\IA_para_DEVs-produto\tests\Despesas.BddTests\bin
 C:\Users\roger\source\repos\sdd\IA_para_DEVs-produto\tests\Despesas.BddTests\obj\Debug\net10.0\Despesas.BddTests.ProcessFeatureFileInputs.cache
 C:\Users\roger\source\repos\sdd\IA_para_DEVs-produto\tests\Despesas.BddTests\obj\Debug\net10.0\MvcTestingAppManifest.json
 C:\Users\roger\source\repos\sdd\IA_para_DEVs-produto\tests\Despesas.BddTests\obj\Debug\net10.0\xUnit.AssemblyHooks.Despesas_BddTests.cs
+C:\Users\roger\source\repos\sdd\IA_para_DEVs-produto\tests\Despesas.BddTests\bin\Debug\net10.0\Features\RegistrarDespesas.feature

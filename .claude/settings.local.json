@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -w \"\\\\nHTTP %{http_code}\\\\n\" -X POST http://localhost:5068/api/despesas -H \"Content-Type: application/json\" -d '{\"nomeFuncionario\":\"Ana Costa\",\"tipoDespesa\":\"transporte\",\"valor\":-10.00}')",
+      "Bash(curl -s -w \"\\\\nHTTP %{http_code}\\\\n\" -X POST http://localhost:5068/api/despesas -H \"Content-Type: application/json\" -d '{\"nomeFuncionario\":\"Bia Torres\",\"tipoDespesa\":\"ALIMENTACAO\",\"valor\":80.00}')",
+      "Bash(taskkill //IM dotnet.exe //F)"
+    ]
+  }
+}
